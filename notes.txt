@@ -1,0 +1,14 @@
+Followed tutorial :
+    Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course
+    https://www.youtube.com/watch?v=5PdEmeopJVQ
+
+created account here : https://cloud.mongodb.com/
+
+also installed locally Mongo DB Compas app to view DB information locally etc
+
+In order to run the app you need to have a file .env with the following contents:
+    MONGO_DATABASE=
+    MONGO_USERNAME=
+    MONGO_PASSWORD=
+    MONGO_CLUSTER=
+
